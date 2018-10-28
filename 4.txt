@@ -1,0 +1,2 @@
+
+SELECT Name, Price FROM tableName GROUP BY id_collection ORDER BY Date DESC LIMIT 5;
